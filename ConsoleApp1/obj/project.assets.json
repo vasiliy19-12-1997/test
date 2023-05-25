@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\KVS\\.nuget\\packages\\": {}
+    "C:\\Users\\Администратор.DESKTOP-86LD454\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KVS\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\JOB\\Course\\backend\\test\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\KVS\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\KVS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KVS\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "projectPath": "D:\\JOB\\Course\\backend\\test\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\Администратор.DESKTOP-86LD454\\.nuget\\packages\\",
+      "outputPath": "D:\\JOB\\Course\\backend\\test\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\KVS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Администратор.DESKTOP-86LD454\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

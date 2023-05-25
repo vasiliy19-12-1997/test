@@ -85,4 +85,38 @@
 
 
 // Массивы
-int[] arr = new int[4];
+// int[] arr = new int[4];
+// int[] arr2 = new int[4]{1,2,3,4};
+//
+// string[] cars = { "BMV", "LADA","Toyota" };
+// Console.WriteLine(cars[^1]);
+// int[] boys = { 1, 2, 3 };
+// foreach (var i in boys)
+// {
+//     Console.WriteLine((i));
+// }
+// int [,] people = {{1,2,3}, {4,5,6}};
+// foreach (var i in people)
+// {
+//     Console.WriteLine($"{i}");
+// }
+// int [,] numbers = {{1,2,3},{4,5,6}};
+// int rows = numbers.GetUpperBound(0)+1;
+// int colums = numbers.Length/rows;
+// for (int i = 0; i < rows; i++)
+// {
+//     for (int j = 0; j < colums; j++)
+//     {
+//         Console.Write($"{numbers[i,j]}\t");
+//     }
+//     Console.WriteLine();
+// }
+int[,,] mas = { { { 1, 2 },{ 3, 4 } }, 
+    { { 4, 5 }, { 6, 7 } }, 
+    { { 7, 8 }, { 9, 10 } }, 
+    { { 10, 11 }, { 12, 13 } }
+};
+foreach (var i in mas)
+{
+    Console.WriteLine($"({i})");
+}
